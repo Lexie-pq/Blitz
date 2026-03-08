@@ -22,7 +22,7 @@
 
 ### Dashboard & Navigation (Main Page)
 ![Main Page](./assets/main-features.jpg)
-* **Hardware Sync:** Real-time monitoring of battery, mileage, and smart lock.
+* **Hardware Sync:** Real-time monitoring of battery, mileage, and smart lock status.
 * **Intuitive Navigation:** Map-centric design for seamless city riding.
 
 ### Gamified Activities
@@ -46,9 +46,11 @@
 ---
 
 ## 📈 4. Design Process & Iteration
-![Process](./assets/iteration-feedback.jpg)
-* **Feedback-Driven:** We conducted user testing and integrated feedback (from P6) to refine the navigation and reward logic.
-* **Collaborative Workflow:** Managed through a professional design-to-dev pipeline, utilizing AI tools for efficient content production and communication.
+![User Feedback](./assets/user-feedback.jpg)
+![Iteration](./assets/iteration-design.jpg)
+
+* **Feedback-Driven:** We conducted extensive user testing and integrated direct feedback to refine navigation paths and reward mechanisms.
+* **Collaborative Workflow:** Managed through a professional design-to-dev pipeline, demonstrating a full lifecycle from research and design to feedback iteration while utilizing AI tools for efficient production.
 
 ---
 
@@ -92,11 +94,6 @@
 * **碳足迹排名：** 实时减排排行榜，激励用户坚持绿色出行。
 * **绿能兑换：** 强调“运动产生能量”，将爬升与距离转化为积分，兑换电池或参与公益项目。
 
-### 社区中心
-![社区与个人中心](./assets/community-design.jpg)
-* **社交连接：** 基于地理位置和兴趣发现骑友并加入骑行小组。
-* **个人成就：** 数字化展示环保贡献、勋章墙及体能表现。
-
 ---
 
 ## 🛠️ 3. 技术实现
@@ -107,9 +104,11 @@
 ---
 
 ## 📈 4. 项目过程与反馈
-![设计迭代](./assets/iteration-feedback.jpg)
-* **用户驱动迭代：** 基于 P6 阶段的用户反馈，我们对导航路径和奖励权重进行了多次优化。
-* **团队协作与 AI 工作流：** 项目记录了从调研、设计到反馈的完整链路（见 P11/12），并展示了如何借助 AI 提升内容产出效率。
+![用户反馈](./assets/user-feedback.jpg)
+![设计迭代](./assets/iteration-design.jpg)
+
+* **用户驱动迭代：** 基于多轮用户反馈与测试，我们对导航路径和奖励权重进行了深度优化。
+* **团队协作与 AI 工作流：** 项目涵盖了从市场调研、交互设计到用户反馈的完整链路，并展示了如何借助 AI 提升内容产出与团队协作效率。
 
 ---
 

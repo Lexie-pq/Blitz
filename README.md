@@ -1,116 +1,130 @@
 # Blitz - BESV Smart Electric Bike Companion 🚲
 
-![Overview](./assets/overview.jpg)
+![Hero Banner](./assets/hero-banner.jpg)
 
-[**English Version**](#english) | [**中文版本**](#chinese)
-
----
-
-<a name="english"></a>
-
-## 🌟 Project Overview
-**Blitz** is a high-fidelity smart companion application prototype designed for the premium electric bicycle brand **BESV**. It addresses the fragmented digital experience in the e-bike market by providing a unified "Hardware + Software + Community" ecosystem.
-
-> **Mission:** "Cycling for a Sustainable Future." Blitz targets eco-conscious urban riders, turning every kilometer into social value and green energy rewards.
-
-### 🎥 AI & Innovation
-* **AI-Powered Promotion:** The project's promotional video was co-created using **OpenAI's Sora**, showcasing our ability to leverage Generative AI to visualize complex brand visions.
-* **Database Integration:** Built with **Figma**, connected to a live-responsive database with mock data to demonstrate real user flows.
+[**English Version**](#english-version) | [**中文版本**](#chinese-version)
 
 ---
 
-## 🚀 Core Features
+<a name="english-version"></a>
 
-![Vision](./assets/vision.jpg)
+## 🌟 1. Project Overview & Value
+**Blitz** is a premium digital ecosystem designed for **BESV** electric bicycles. Beyond a simple utility app, Blitz integrates hardware status, urban culture-tourism, and social sustainability into a seamless user experience.
 
-### 1. Smart Dashboard (Main Page)
-Real-time hardware status at a glance.
-* **Live Metrics:** Battery level, mileage, and smart lock status.
-* **Navigation:** Integrated GPS specifically optimized for e-bike routes.
-
-### 2. Gamified Activities
-![Activities](./assets/activities_detail.jpg)
-* **City Check-in:** Explore urban landmarks and unlock rewards.
-* **Carbon Ranking:** Compete with local riders based on CO2 saved.
-* **Energy Exchange:** Convert calories and climbing height into battery power or charity project support.
-* **Supply Stations:** Smart mapping of rest points and maintenance hubs.
-
-### 3. Community & Social Hub
-A dedicated platform to connect based on location. Support for posting "Feeds," following friends, and organizing group rides.
+### Why Blitz? (Problem & Solution)
+![Problem & Solution](./assets/problem-solution.jpg)
+* **The Problem:** Fragmented cycling data, lack of social connection for high-end riders, and low engagement in eco-friendly habits.
+* **Our Solution:** A unified platform that gamifies "Green Energy," rewards urban exploration, and fosters a high-quality community.
 
 ---
 
-## 🛠️ Business & Outlook
-![Business](./assets/business.jpg)
-* **Brand Channel:** Direct sales integration for BESV bike models.
-* **Ad Platform:** Premium advertising space within supply stations for outdoor brands.
-* **AI Enhancement:** Future iterations will include AI-driven personalized route recommendations and predictive maintenance.
+## 🚀 2. Core Features
+
+### Dashboard & Navigation (Main Page)
+![Main Page](./assets/main-features.jpg)
+* **Hardware Sync:** Real-time monitoring of battery, mileage, and smart lock.
+* **Intuitive Navigation:** Map-centric design for seamless city riding.
+
+### Gamified Activities
+![Activities](./assets/activity-modules.jpg)
+* **City Check-in:** Turn cycling into a cultural journey with landmark rewards.
+* **Carbon Ranking:** Real-time leaderboard for CO2 reduction to incentivize green travel.
+* **Green Energy Exchange:** Convert physical effort (climbing/distance) into battery packs or charity donations.
+
+### Community Hub
+![Community](./assets/community-design.jpg)
+* **Social Connection:** Discover nearby riders and join groups based on shared interests or proximity.
+* **Personal Performance:** Track long-term environmental impact and earned badges.
 
 ---
 
-## 🔗 Project Resources
+## 🛠️ 3. Technical Implementation
+* **High-Fidelity Prototyping:** Built with **Figma**, featuring complex interactive components and logic flows.
+* **Data-Driven Design:** Connected to a live database via Figma plugins to drive **Mock/Demo data**, ensuring a realistic user experience during testing.
+* **AI Enhancement:** The promotional video was co-created with **OpenAI's Sora**, demonstrating advanced capabilities in leveraging AI to visualize brand vision and software interactions.
+
+---
+
+## 📈 4. Design Process & Iteration
+![Process](./assets/iteration-feedback.jpg)
+* **Feedback-Driven:** We conducted user testing and integrated feedback (from P6) to refine the navigation and reward logic.
+* **Collaborative Workflow:** Managed through a professional design-to-dev pipeline, utilizing AI tools for efficient content production and communication.
+
+---
+
+## 🔮 5. Business Potential & Outlook
+![Business](./assets/business-outlook.jpg)
+* **Revenue Streams:** Integrated brand sales channels, premium advertising for supply stations, and commission-based services.
+* **Future Roadmap:** AI-driven personalized route recommendations and predictive hardware maintenance.
+
+---
+
+## 🔗 Quick Access
 * **[Live Demo App (Figma)](https://wrist-pager-97681795.figma.site)**
-* **[Landing Page](https://blink-verify-48103483.figma.site/)**
+* **[Project Landing Page](https://blink-verify-48103483.figma.site/)**
 * **[Promo Video (YouTube)](https://youtu.be/-PWxabQaLvQ)** | **[Bilibili](https://www.bilibili.com/video/BV1HAS1BQEh9/)**
-* **Prototype Source:** Located in `/prototype/Blitz_Design_Source.fig`
-
-### 🔑 Test Access
-* **Account:** `test@test.com`
-* **Password:** `Testuser1`
+* **Account:** `test@test.com` | **Password:** `Testuser1`
 
 ---
 
-<a name="chinese"></a>
+<a name="chinese-version"></a>
 
-## 🌟 项目简介
-**Blitz** 是一款专为高端电动自行车品牌 **BESV** 打造的高保真智能伴侣 App 原型。它针对电动自行车市场数字化体验破碎的痛点，提供了一个统一的“硬件+软件+社区”生态系统。
+## 🌟 1. 项目简介与价值
+**Blitz** 是专为 **BESV** 电动自行车设计的高端数字化生态系统。它不仅是一个工具软件，更是一个整合了硬件监控、城市文旅与社交可持续发展的全方位体验平台。
 
-> **核心使命：** “为可持续的未来而骑行”。Blitz 锁定具有环保意识的都市骑行者，将骑行的每一公里转化为社交价值与绿色能源奖励。
-
-### 🎥 AI 应用与创新
-* **AI 辅助宣传：** 本项目的宣传视频采用了 **OpenAI Sora** 辅助制作，展示了我们利用生成式 AI 快速视觉化品牌愿景的能力。
-* **数据库集成：** 采用 **Figma** 开发，连接了动态响应数据库，支持 Mock 数据交互，模拟真实用户流程。
-
----
-
-## 🚀 核心功能介绍
-
-![Vision](./assets/vision.jpg)
-
-### 1. 智能仪表盘 (主页)
-硬件状态一目了然。
-* **实时数据：** 电池电量、里程数、智能锁状态。
-* **骑行导航：** 针对电动自行车优化的集成 GPS 导航。
-
-### 2. 游戏化活动模块
-![Activities](./assets/activities_detail.jpg)
-* **城市打卡：** 探索城市名胜并解锁实物/虚拟奖励。
-* **碳足迹排名：** 基于减排量与当地骑行者竞争。
-* **绿能兑换：** 将消耗的卡路里与爬升高度转化为“能量值”，兑换电池包或参与公益能源项目。
-* **驿站补给：** 智能展示附近的休息站、维护点及物资补给。
-
-### 3. 社交社区 (Community)
-打造专属 BESV 用户的交流平台。支持发布动态（Feed）、关注好友以及组织线下同城骑行活动。
+### 为什么选择 Blitz? (痛点与解决方案)
+![痛点与解决方案](./assets/problem-solution.jpg)
+* **痛点分析：** 骑行数据碎片化、高端骑行者缺乏社交连接、绿色出行习惯缺乏持久动力。
+* **解决方案：** 通过“绿能积分”游戏化系统、城市探索奖励和高品质社群，打造完整的软硬件闭环。
 
 ---
 
-## 🛠️ 商业愿景与展望
-![Business](./assets/business.jpg)
-* **品牌销售渠道：** 集成 BESV 车型信息，开启潜在销售入口。
-* **广告服务：** 在驿站模块为户外品牌提供精准的广告展示空间。
-* **AI 增强：** 未来版本将引入 AI 驱动的个性化路线推荐与预测性维护功能。
+## 🚀 2. 核心功能介绍
+
+### 智能仪表盘 (主页)
+![主页设计](./assets/main-features.jpg)
+* **硬件同步：** 实时监控电量、里程及智能锁状态。
+* **直观导航：** 以地图为中心的设计，为城市骑行提供无缝导航。
+
+### 活动模块
+![活动功能](./assets/activity-modules.jpg)
+* **城市打卡：** 将骑行转化为文旅探索，打卡著名景点获取奖励。
+* **碳足迹排名：** 实时减排排行榜，激励用户坚持绿色出行。
+* **绿能兑换：** 强调“运动产生能量”，将爬升与距离转化为积分，兑换电池或参与公益项目。
+
+### 社区中心
+![社区与个人中心](./assets/community-design.jpg)
+* **社交连接：** 基于地理位置和兴趣发现骑友并加入骑行小组。
+* **个人成就：** 数字化展示环保贡献、勋章墙及体能表现。
 
 ---
 
-## 🔗 项目相关资源
+## 🛠️ 3. 技术实现
+* **高保真原型：** 使用 **Figma** 构建，包含完整的页面跳转逻辑与复杂交互组件。
+* **数据驱动：** 原型连接了后台数据库，通过 **Mock/Demo 数据** 驱动页面展示，确保了测试时的真实交互感。
+* **AI 工具赋能：** 项目宣传视频采用了 **OpenAI Sora** 辅助制作。通过灵活运用前沿 AI 工具，将品牌愿景与软件体验进行了高效的视觉化呈现。
+
+---
+
+## 📈 4. 项目过程与反馈
+![设计迭代](./assets/iteration-feedback.jpg)
+* **用户驱动迭代：** 基于 P6 阶段的用户反馈，我们对导航路径和奖励权重进行了多次优化。
+* **团队协作与 AI 工作流：** 项目记录了从调研、设计到反馈的完整链路（见 P11/12），并展示了如何借助 AI 提升内容产出效率。
+
+---
+
+## 🔮 5. 商业化与未来规划
+![商业愿景](./assets/business-outlook.jpg)
+* **商业模式：** 包含品牌直销渠道集成、驿站精准广告位、以及服务佣金分成。
+* **未来展望：** 计划引入 AI 驱动的个性化路线推荐系统及硬件预测性维护。
+
+---
+
+## 🔗 快速链接
 * **[软件在线演示 (Figma)](https://wrist-pager-97681795.figma.site)**
 * **[宣传 Landing Page](https://blink-verify-48103483.figma.site/)**
 * **[宣传视频 (YouTube)](https://youtu.be/-PWxabQaLvQ)** | **[B站](https://www.bilibili.com/video/BV1HAS1BQEh9/)**
-* **原型源文件：** 请查看本仓库 `/prototype/` 文件夹下的 .fig 文件。
-
-### 🔑 测试账号
-* **账号：** `test@test.com`
-* **密码：** `Testuser1`
+* **测试账号：** `test@test.com` | **密码：** `Testuser1`
 
 ---
 © 2026 Blitz Project Team. Built with Figma & AI (Sora).
